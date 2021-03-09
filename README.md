@@ -14,6 +14,6 @@
 
 2021.03.08 [코딩테스트 lv1](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0308), [코딩테스트용 string 샘플 작성](https://github.com/HanweeeeLee/algorithm-study/tree/master/Tip/Swift/String.playground)
 
-2021.03.09 [코딩테스트 lv1](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0309), [SubLoadingProtocol 작성](https://github.com/HanweeeeLee/commonLib/blob/master/SubViewLoadingProtocol.swift), Clean COde 5장 Zoom 스터디
+2021.03.09 [코딩테스트 lv1](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0309), [SubLoadingProtocol 작성](https://github.com/HanweeeeLee/commonLib/blob/master/SubViewLoadingProtocol.swift), Clean Code 5장 Zoom 스터디
 
 
