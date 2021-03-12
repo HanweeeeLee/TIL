@@ -1,5 +1,9 @@
 # 👨🏻‍💻Today I Learned
 
+## rule
+1. 가능한 매일 커밋한다.
+2. 의미없는 커밋은 지양한다.
+
 2021.02.28 [Clean Code 주석에 대해서](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/4.%20%EC%A3%BC%EC%84%9D)
 
 2021.03.01 Clean Code 형식맞추기, MVVM 스터디
@@ -19,4 +23,6 @@
 2021.03.10 [코딩테스트](https://github.com/HanweeeeLee/algorithm-study/blob/master/2021/0310/README.md)
 
 2021.03.11 [MVP 메모리 릭 체크](https://github.com/HanweeeeLee/TestModules/tree/master/ObjcBlockMemeryTest)
+
+2021.03.12 [Error Manager Module 초기 commit](https://github.com/HanweeeeLee/NMRError), [프로그래머스 알고리즘 스터디 lv1, lv2](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0312)
 
