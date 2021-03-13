@@ -26,3 +26,5 @@
 
 2021.03.12 [Error Manager Module 초기 commit](https://github.com/HanweeeeLee/NMRError), [프로그래머스 알고리즘 스터디 lv1, lv2](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0312)
 
+2021.03.13 디프만면접, 프로그래머스 알고리즘 lv1 스터디
+
