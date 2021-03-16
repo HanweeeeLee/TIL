@@ -32,3 +32,5 @@
 
 2021.03.15 [Apple Framework 메모리 관련 블로그 글 작성](https://hanweeee.tistory.com/8)및 예제 작성, CelanCode 6,8장 Zoom 스터디
 
+2021.03.16 iOS NFC 
+
