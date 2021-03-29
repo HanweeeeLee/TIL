@@ -57,3 +57,5 @@
 2021.03.27 coordinator 패턴 공부 및 샘플작성, Swift Package Manager 샘플작성, SwiftLint 샘플작성, 디프만 기획회의
 
 2021.03.28 [SPM에서 SwiftLint사용하기 글 작성](https://hanweeee.tistory.com/11), CleanCode 10장 스터디
+
+2021.03.29 [알고리즘 스터디](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0329), Clean Code 7장 Zoom 스터디
