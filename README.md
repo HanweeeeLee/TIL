@@ -61,3 +61,5 @@
 2021.03.29 [알고리즘 스터디](https://github.com/HanweeeeLee/algorithm-study/tree/master/2021/0329), Clean Code 7장 Zoom 스터디
 
 2021.03.30 [CleanCode 11장 스터티 및 세미나자료 작성](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/11.%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
+
+2021.03.31 디프만 API구상 회의
