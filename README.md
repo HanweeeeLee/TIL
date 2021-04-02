@@ -63,3 +63,7 @@
 2021.03.30 [CleanCode 11장 스터티 및 세미나자료 작성](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/11.%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
 
 2021.03.31 디프만 API구상 회의
+
+2021.04.01 MyRecipick 구조 구상 및 초기작업
+
+2021.04.02 처음배우는 암호화 1,2장 
