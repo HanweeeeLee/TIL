@@ -69,3 +69,5 @@
 2021.04.02 처음배우는 암호화 1,2장 
 
 2021.04.03 디프만 회의 참석 및 프로젝트 
+
+2021.04.05 CleanCode Zoom Study, Core Data Sample 
