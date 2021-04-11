@@ -71,3 +71,7 @@
 2021.04.03 디프만 회의 참석 및 프로젝트 
 
 2021.04.05 CleanCode Zoom Study, Core Data Sample 
+
+2021.04.10 디프만 기획/와이어프레임 회의, myRecipick 구조잡기
+
+2021.04.11 Coordinator tab 구상 및 샘플코드 작성
