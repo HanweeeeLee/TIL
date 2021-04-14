@@ -75,3 +75,9 @@
 2021.04.10 디프만 기획/와이어프레임 회의, myRecipick 구조잡기
 
 2021.04.11 Coordinator tab 구상 및 샘플코드 작성
+
+2021.04.12 MyRecipick 구조 변경 및 모듈 추가
+
+2021.04.13 MyRecipick Coordinator 패턴 적용 
+
+2021.04.14 MyRecipick 캡쳐모듈개발 및 CleanCode 10장 Zoom Study
