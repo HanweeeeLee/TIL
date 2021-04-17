@@ -81,3 +81,7 @@
 2021.04.13 MyRecipick Coordinator 패턴 적용 
 
 2021.04.14 MyRecipick 캡쳐모듈개발 및 CleanCode 10장 Zoom Study
+
+2021.04.15 Screen -> Video 기술검토
+
+2021.04.17 디프만 회의
