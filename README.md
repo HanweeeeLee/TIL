@@ -85,3 +85,5 @@
 2021.04.15 Screen -> Video 기술검토
 
 2021.04.17 디프만 회의
+
+2021.04.18 MyRecipick 프로토콜 변경, SideMenu 
