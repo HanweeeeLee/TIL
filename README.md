@@ -86,4 +86,6 @@
 
 2021.04.17 디프만 회의
 
-2021.04.18 MyRecipick 프로토콜 변경, SideMenu 
+2021.04.18 MyRecipick 프로토콜 변경, SideMenu 샘플작성
+
+2021.04.19 MyRecipick 프로토콜변경, 스플래시 추가, 브랜드 API작업, CleanCode 11장 Zoom Study
