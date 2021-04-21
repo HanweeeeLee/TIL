@@ -91,3 +91,5 @@
 2021.04.19 MyRecipick 프로토콜변경, 스플래시 추가, 브랜드 API작업, CleanCode 11장 Zoom Study
 
 2021.04.20 MyRecipick 프로토콜변경, 브랜드 변경 구조 작업, 탭 이동 함수 추가
+
+2021.04.21 MyRecipick 라이센스 파일 추가 / Firebase crashlytics sample 작성
