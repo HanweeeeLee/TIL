@@ -64,7 +64,7 @@
 
 2021.03.31 디프만 API구상 회의
 
-2021.04.01 MyRecipick 구조 구상 및 초기작업
+2021.04.01 [MyRecipick 구조 구상 및 초기작업](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.04.02 처음배우는 암호화 1,2장 
 
@@ -72,24 +72,26 @@
 
 2021.04.05 CleanCode Zoom Study, Core Data Sample 
 
-2021.04.10 디프만 기획/와이어프레임 회의, myRecipick 구조잡기
+2021.04.10 디프만 기획/와이어프레임 회의, [myRecipick 구조잡기](https://github.com/HanweeeeLee/myRecipick_iOS)
 
-2021.04.11 Coordinator tab 구상 및 샘플코드 작성
+2021.04.11 [Coordinator tab 구상 및 샘플코드 작성](https://github.com/HanweeeeLee/TestModules/tree/master/CoordinatorTab)
 
-2021.04.12 MyRecipick 구조 변경 및 모듈 추가
+2021.04.12 [MyRecipick 구조 변경 및 모듈 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
 
-2021.04.13 MyRecipick Coordinator 패턴 적용 
+2021.04.13 [MyRecipick Coordinator 패턴 적용](https://github.com/HanweeeeLee/myRecipick_iOS)
 
-2021.04.14 MyRecipick 캡쳐모듈개발 및 CleanCode 10장 Zoom Study
+2021.04.14 [MyRecipick 캡쳐모듈개발](https://github.com/HanweeeeLee/myRecipick_iOS) 및 CleanCode 10장 Zoom Study
 
-2021.04.15 Screen -> Video 기술검토
+2021.04.15 [Screen -> Video 기술검토](https://github.com/HanweeeeLee/TestModules/tree/master/ScreenToVideo)
 
 2021.04.17 디프만 회의
 
-2021.04.18 MyRecipick 프로토콜 변경, SideMenu 샘플작성
+2021.04.18 [MyRecipick 프로토콜 변경](https://github.com/HanweeeeLee/myRecipick_iOS), [SideMenu 샘플작성](https://github.com/HanweeeeLee/TestModules/tree/master/SideMenuTest)
 
-2021.04.19 MyRecipick 프로토콜변경, 스플래시 추가, 브랜드 API작업, CleanCode 11장 Zoom Study
+2021.04.19 [MyRecipick 프로토콜변경, 스플래시 추가, 브랜드 API작업](https://github.com/HanweeeeLee/myRecipick_iOS), CleanCode 11장 Zoom Study
 
-2021.04.20 MyRecipick 프로토콜변경, 브랜드 변경 구조 작업, 탭 이동 함수 추가
+2021.04.20 [MyRecipick 프로토콜변경, 브랜드 변경 구조 작업, 탭 이동 함수 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
 
-2021.04.21 MyRecipick 라이센스 파일 추가 / Firebase crashlytics sample 작성
+2021.04.21 [MyRecipick 라이센스 파일 추가](https://github.com/HanweeeeLee/myRecipick_iOS) / [Firebase crashlytics sample 작성](https://github.com/HanweeeeLee/TestModules/tree/master/FirebaseCrashlyticsTest)
+
+2021.04.22 [QuickSort 샘플 작성](https://github.com/HanweeeeLee/algorithm-study/tree/master/Tip/Swift/String.playground/Snippet) 및 iOS 이론 정리
