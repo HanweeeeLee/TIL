@@ -95,3 +95,8 @@
 2021.04.21 [MyRecipick 라이센스 파일 추가](https://github.com/HanweeeeLee/myRecipick_iOS) / [Firebase crashlytics sample 작성](https://github.com/HanweeeeLee/TestModules/tree/master/FirebaseCrashlyticsTest)
 
 2021.04.22 [QuickSort 샘플 작성](https://github.com/HanweeeeLee/algorithm-study/tree/master/Tip/Swift/String.playground/Snippet) 및 iOS 이론 정리
+
+2021.04.23 [StickyView 샘플 작성](https://github.com/HanweeeeLee/TestModules/tree/master/StickyViewSample)
+
+2021.04.05 CleanCode Zoom Study, Core Data Sample ㅈㄱ
+2021.04.05 CleanCode Zoom Study, Core Data Sample 
