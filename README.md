@@ -97,3 +97,5 @@
 2021.04.22 [QuickSort 샘플 작성](https://github.com/HanweeeeLee/algorithm-study/tree/master/Tip/Swift/String.playground/Snippet) 및 iOS 이론 정리
 
 2021.04.23 [StickyView 샘플 작성](https://github.com/HanweeeeLee/TestModules/tree/master/StickyViewSample)
+
+2021.04.24 [MyRecipick Color추가, Font추가, SwiftGen Script변경](https://github.com/HanweeeeLee/TestModules/tree/master/StickyViewSample), 디프만 회의
