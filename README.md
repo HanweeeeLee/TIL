@@ -99,3 +99,5 @@
 2021.04.23 [StickyView 샘플 작성](https://github.com/HanweeeeLee/TestModules/tree/master/StickyViewSample)
 
 2021.04.24 [MyRecipick Color추가, Font추가, SwiftGen Script변경](https://github.com/HanweeeeLee/TestModules/tree/master/StickyViewSample), 디프만 회의
+
+2021.04.26 Clean Code Zoom Study
