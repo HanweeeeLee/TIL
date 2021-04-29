@@ -101,3 +101,7 @@
 2021.04.24 [MyRecipick Color추가, Font추가, SwiftGen Script변경](https://github.com/HanweeeeLee/TestModules/tree/master/StickyViewSample), 디프만 회의
 
 2021.04.26 Clean Code Zoom Study
+
+2021.04.28 [LocalizationGen 0.0.1버전 돌아가는정도의 수준으로 작업 및 완성](https://github.com/HanweeeeLee/LocalizationGen)
+
+2021.04.29 [MyRecipick Home 작업 및 리소스 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
