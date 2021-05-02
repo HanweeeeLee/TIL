@@ -109,3 +109,5 @@
 2021.04.30 [MyRecipick 작업,UIView + FadeInout 추가,UIButton + BackgroundColor 추가,홈팁뷰완성,탭바 아이콘 추가,브랜드 선택 UI 개발 todo) 브랜드를 선택할경우 현재 브랜드와 비교해서 다르다면 UI 전부 갱신, 우선순위 하,신규 브랜드 요청 작업중](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.05.01 디프만 회의, [MyRecipick작업(- UIView + RemoveAllSubViews 추가 - RequestBrandViewController 화면작업)](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.02 [- YourPage UI작업중, - AlertView 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
