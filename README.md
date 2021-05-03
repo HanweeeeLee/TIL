@@ -110,4 +110,7 @@
 
 2021.05.01 디프만 회의, [MyRecipick작업(- UIView + RemoveAllSubViews 추가 - RequestBrandViewController 화면작업)](https://github.com/HanweeeeLee/myRecipick_iOS)
 
-2021.05.02 [- YourPage UI작업중, - AlertView 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
+2021.05.02 [MyRecipick - YourPage UI작업중, - AlertView 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.03 [Clean Code 13장 Zoom Study](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/13.%20%EB%8F%99%EC%8B%9C%EC%84%B1)
+2023.
