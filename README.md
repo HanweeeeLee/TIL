@@ -115,3 +115,5 @@
 2021.05.03 [Clean Code 13장 Zoom Study](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/13.%20%EB%8F%99%EC%8B%9C%EC%84%B1)
 
 2021.05.04 [MyRecipick 탭바 서브뷰 추가, 네비게이션 선택된 삭제예정 갯수 색 변경, CustomMenuCardCollectionViewCell 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.06 [MyRecipick DetailView 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
