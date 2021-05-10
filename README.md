@@ -119,3 +119,5 @@
 2021.05.06 [MyRecipick DetailView 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.05.07 [MyRecipick Image SwiftGen 생성파일로 변경](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.09 [MyRecipick DetailView UI작업](https://github.com/HanweeeeLee/myRecipick_iOS), CleanCode 동시성2
