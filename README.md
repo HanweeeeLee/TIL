@@ -123,3 +123,5 @@
 2021.05.09 [MyRecipick DetailView UI작업](https://github.com/HanweeeeLee/myRecipick_iOS), CleanCode 동시성2
 
 2021.05.11 [Clean Code 동시성2 Zoom Study](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/13.%20%EB%8F%99%EC%8B%9C%EC%84%B1)
+
+2021.05.12 [MyRecipick 로그인 처리](https://github.com/HanweeeeLee/myRecipick_iOS)
