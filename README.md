@@ -125,3 +125,7 @@
 2021.05.11 [Clean Code 동시성2 Zoom Study](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/13.%20%EB%8F%99%EC%8B%9C%EC%84%B1)
 
 2021.05.12 [MyRecipick 로그인 처리](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.15 디프만 회의, [MyRecipick API연동 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.16 [Clean Code 17장 정리](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/17.%20%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1), [MyRecipick 디테일화면 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
