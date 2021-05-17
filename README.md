@@ -129,3 +129,5 @@
 2021.05.15 디프만 회의, [MyRecipick API연동 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.05.16 [Clean Code 17장 정리](https://github.com/HanweeeeLee/CleanCodeStudy/tree/main/17.%20%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1), [MyRecipick 디테일화면 작업](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.17 Clean Code 17장 Zoom Study, [MyRecipick 디테일화면 작업, RxDataSource 연동](https://github.com/HanweeeeLee/myRecipick_iOS)
