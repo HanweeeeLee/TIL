@@ -133,3 +133,5 @@
 2021.05.17 Clean Code 17장 Zoom Study, [MyRecipick 디테일화면 작업, RxDataSource 연동](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.05.18 [MyRecipick 디테일화면 작업. 셀 추가, 배경색 변경 기능 추가](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.19 [MyRecipick 화면캡쳐모듈 기술검토 및 수정](https://github.com/HanweeeeLee/myRecipick_iOS)
