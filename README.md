@@ -137,3 +137,5 @@
 2021.05.19 [MyRecipick 화면캡쳐모듈 기술검토 및 수정](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.05.21 [MyRecipick 코드정리, API변경사항 적용](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.25 [MyRecipick DetailView UI변경사항 적용](https://github.com/HanweeeeLee/myRecipick_iOS)
