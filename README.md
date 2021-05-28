@@ -139,3 +139,5 @@
 2021.05.21 [MyRecipick 코드정리, API변경사항 적용](https://github.com/HanweeeeLee/myRecipick_iOS)
 
 2021.05.25 [MyRecipick DetailView UI변경사항 적용](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.05.27 [UML 정리](https://github.com/HanweeeeLee/Object/tree/main/0.%20UML)
