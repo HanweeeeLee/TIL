@@ -153,3 +153,7 @@
 2021.06.07 [Object 2장 Zoom Study](https://github.com/HanweeeeLee/Object/tree/main/02.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 2021.06.08 [MyRecipick 고도화](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.06.11 [MyRecipick 고도화](https://github.com/HanweeeeLee/myRecipick_iOS)
+
+2021.06.12 디프만 참여
